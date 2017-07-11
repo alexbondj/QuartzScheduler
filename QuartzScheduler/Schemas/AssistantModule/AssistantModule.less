@@ -1,0 +1,322 @@
+.right-panel-modules-container > div[id*="taskModule"] {
+  overflow: hidden;
+  padding-left: 0px;
+  margin-left: -4px;
+  padding-top: 0;
+}
+
+.task-main-container {
+  .entity-item-relation-container:nth-last-child(2) .base-edit-right-icon {
+    display: block;
+  }
+  .messageHeader {
+    display: inline-block;
+    width: 100%;
+    position: relative;
+    height: 36px;
+    font-size: 2em;
+
+    .createdBy {
+      max-width: 230px;
+      display: inline-block;
+      position: absolute;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      .t-label {
+        font-size: 14px;
+        font-family: "Bpmonline Open Sans";
+        color: #999999;
+      }
+      .label-url {
+        color: #4e7bd8;
+      }
+    }
+
+    .taskInformation {
+      position: absolute;
+      max-width: 57px;
+      font-size: 12px;
+      top: 18px;
+      display: inline-block;
+      .createdByAddress {
+        font-size: 12px;
+        max-width: 195px;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        color: #999;
+        font-family: "Bpmonline Open Sans";
+      }
+
+      .message-date-text {
+        margin-right: 5px;
+        font-size: 12px;
+        color: #999;
+        text-overflow: ellipsis;
+        font-family: "Bpmonline Open Sans";
+        white-space: nowrap;
+      }
+    }
+  }
+
+  .ts-image-edit-wrap.author-image-container img {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+
+  .taskAuthorImageContainer {
+    background-color: #9bb3e8;
+    margin: 2px 10px 0 0;
+    width: 32px;
+    height: 32px;
+    -moz-border-radius: 16px;
+    -webkit-border-radius: 16px;
+    border-radius: 16px;
+    text-align: center;
+    line-height: 32px;
+    display: inline-block;
+    .t-label {
+      color: white;
+      font-size: 15px;
+      font-family: "Bpmonline Open Sans";
+    }
+    img {
+      background-color: white;
+    }
+    .label-url:hover {
+      text-decoration: none;
+    }
+  }
+
+
+  .author-image-container {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+  }
+
+  .message-text-container {
+    display: inline-block;
+    max-height: 34px;
+    max-width: 300px;
+    overflow: hidden;
+  }
+
+  .task-header-container {
+    position: relative;
+    z-index: 1000;
+    background-color: #fff;
+    height: 34px;
+    width: 320px;
+
+    .t-btn-wrapper.left-button:first-child {
+      padding-left: 6px;
+    }
+
+    .t-btn-wrapper.left-button {
+      font-size: 14px;
+      line-height: 16px;
+      color: #4d7ad7;
+      height: 28px;
+      padding: 4px 25px 0px 0px;
+    }
+
+    .t-btn-wrapper:not(.left-button){
+      border: 1px solid #b4c1d2;
+      padding: 5px 7px;
+      height: 28px;
+      margin-top: 10px;
+    }
+
+    .t-btn-wrapper:nth-of-type(3){
+      position: absolute;
+      padding: 6px 7px;
+      right: 45px;
+    }
+    .task-reload-panel-button-wrapper {
+      width: 312px;
+      margin: 2px 15px 0 5px;
+      background: #edf1f8;
+      border: none;
+      height: 32px;
+      font-size: 14px;
+      display: flex;
+      justify-content: center;
+      padding-top: 3px;
+
+      .t-btn-wrapper {
+        font-size: inherit;
+        width: initial;
+        color: #5c7faf;
+        border: none;
+        display: flex;
+        margin-right: 1.14em;
+      }
+    }
+  }
+
+  .task-container-list {
+    margin-top: 95px;
+    position: absolute;
+    overflow-y: auto;
+    overflow-x: hidden;
+    height: 100%;
+    width: 348px;
+  }
+
+  .task-actions-button-wrapper {
+    background-color: rgba(0, 0, 0, 0);
+    border: 1px solid #b4c1d2;
+    border-radius: 2px;
+    color: #4e7bd8;
+    font-size: 13px;
+    height: 1.923em;
+    padding-top: 0.231em;
+    padding-bottom: 0;
+    padding-left: 0.3em;
+    padding-right: 0.2em;
+    position: absolute;
+    right: 8px;
+
+    .t-btn-menuWrap {
+      display: none;
+    }
+  }
+
+  .task-actions-button-menu {
+    display: none;
+  }
+
+  .task-tab-actions-button-wrapper{
+    float: right;
+    margin-top: 4px;
+    margin-right: -5px;
+  }
+
+  .task-type-image-button-wrapper span{
+    width: 24px;
+    height: 24px;
+    margin-top: -5px;
+    margin-left: -10px;
+  }
+
+  .entity-item-relation-container:last-child {
+    margin-top: 16px;
+    height: 28px;
+
+    .t-btn-wrapper {
+      height: 28px;
+      padding: 0.4em 0.53em 0.4em 0.54em;
+    }
+
+    .t-btn-wrapper.t-btn-style-green{
+      padding-top: 0.2em;
+    }
+
+    .t-btn-wrapper:last-child {
+      float:right;
+      padding: 0px 0px 0px 0px;
+      margin-right: -5px;
+    }
+  }
+
+  .task-container {
+    padding: 7px 10px 8px 14px;
+    width: 338px;
+    border-bottom: 1px solid #e6e6e6;
+    border-top: 1px solid transparent;
+    border-left: 1px solid transparent;
+    border-right: 1px solid transparent;
+
+    .task-actions-button-wrapper {
+      border: none;
+      top: 0;
+      right: 0;
+      display: none;
+      .t-btn-image {
+        border: none;
+        width: 15px;
+        height: 15px;
+      }
+    }
+    .message-task-text {
+      max-height: 24px;
+      font-size: 12px;
+      line-height: 16px;
+      height: 40px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      font-family: "Bpmonline Open Sans";
+      color: #444444;
+    }
+
+    .title-container {
+      width: 98%;
+      display: inline-block;
+      font-size: 12px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      .message-title {
+        font-size: 15px;
+        font-family: "Bpmonline Open Sans";
+        color: #4e7bd8;
+      }
+    }
+  }
+  .task-container:hover {
+    box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.07);
+  }
+  .task-container:hover, .task-container.selected {
+    border: 1px solid #e2e2e2;
+    .task-actions-button-wrapper {
+      display: block;
+      .t-btn-image {
+        border: none;
+        width: 15px;
+        height: 15px;
+      }
+    }
+  }
+  .task-container.selected {
+    .entity-relation-container {
+      display: block;
+      margin-top: 10px;
+    }
+
+    .entity-actions-button-wrapper, .task-actions-button-wrapper {
+      display: block;
+      .t-btn-image {
+        border: none;
+        width: 15px;
+        height: 15px;
+      }
+    }
+  }
+  .t-label {
+    display: inline;
+  }
+  .task-empty-message {
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+    color: #b1b8b2;
+  }
+
+}
+
+@-moz-document url-prefix() {
+  .task-main-container {
+    .task-container {
+      padding: 7px 10px 8px 14px;
+      width: 328px;
+      border-bottom: 1px solid #e6e6e6;
+      border-top: 1px solid transparent;
+      border-left: 1px solid transparent;
+      border-right: 1px solid transparent;
+    }
+  }
+}

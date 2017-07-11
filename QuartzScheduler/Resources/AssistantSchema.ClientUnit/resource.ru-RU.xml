@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="AssistantSchema" />
+			<Item Name="Images.57bdae1b-23f6-42cf-bc65-d0768c80d4de.Caption" Value="Изображение 1" />
+			<Item Name="Images.6dc0b8dc-0d0b-410d-869f-356471a8403e.Caption" Value="Изображение 1" />
+			<Item Name="Images.9760594d-ed6b-4283-8ab5-2f38a0bcc5b4.Caption" Value="Изображение 1" />
+			<Item Name="LocalizableStrings.AddDailyCaption.Value" Value="Add daily action" />
+			<Item Name="LocalizableStrings.ExecuteLuaScriptCaption.Value" Value="Выполнить скрипт Lua..." />
+			<Item Name="LocalizableStrings.RefreshCaption.Value" Value="Обновить" />
+		</Items>
+	</Group>
+</Resources>

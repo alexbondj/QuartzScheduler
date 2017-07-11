@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "d1a63396-5287-4e3f-bf95-41fbd0db30ad",
+    "Name": "AssistantService",
+    "ModifiedOnUtc": "\/Date(1499764783000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "AssistantService",
+    "DependsOn": []
+  }
+}

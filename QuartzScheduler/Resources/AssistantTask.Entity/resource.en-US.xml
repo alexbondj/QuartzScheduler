@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Assistant Task" />
+			<Item Name="Columns.Action.Caption" Value="Action" />
+			<Item Name="Columns.IntervalInMinute.Caption" Value="Interval in minute" />
+			<Item Name="Columns.Name.Caption" Value="Name" />
+			<Item Name="Columns.RunDateTime.Caption" Value="Run DateTime" />
+			<Item Name="Columns.SysAdminUnit.Caption" Value="User" />
+			<Item Name="Columns.Type.Caption" Value="Type" />
+		</Items>
+	</Group>
+</Resources>

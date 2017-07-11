@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ace0b2a7-71e8-44a3-89a5-0020d284803c",
+    "Name": "AssistantTask",
+    "ModifiedOnUtc": "\/Date(1499761788000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Assistant Task",
+    "DependsOn": []
+  }
+}

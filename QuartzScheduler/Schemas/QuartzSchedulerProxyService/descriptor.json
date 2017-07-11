@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "c27389a6-e6db-4ea6-9d5a-463f7ca349d2",
+    "Name": "QuartzSchedulerProxyService",
+    "ModifiedOnUtc": "\/Date(1499761465000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "QuartzSchedulerProxyService",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,62 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ClientUnitSchemaManager",
+      "UId": "adcf4801-a882-42c1-8b76-78fc50736540",
+      "A2": "AssistantSchema",
+      "A5": "de53acb2-bad8-47a3-a89b-b76a99219c79",
+      "B1": [],
+      "B2": [
+        {
+          "UId": "e6f1a510-3728-4b9d-a5e3-ad6a1e9e192c",
+          "A2": "RefreshCaption",
+          "A3": "adcf4801-a882-42c1-8b76-78fc50736540",
+          "A4": "adcf4801-a882-42c1-8b76-78fc50736540",
+          "A5": "de53acb2-bad8-47a3-a89b-b76a99219c79"
+        },
+        {
+          "UId": "5438a1c6-ddaf-4c43-8089-ddba73a6b02a",
+          "A2": "AddDailyCaption",
+          "A3": "adcf4801-a882-42c1-8b76-78fc50736540",
+          "A4": "adcf4801-a882-42c1-8b76-78fc50736540",
+          "A5": "de53acb2-bad8-47a3-a89b-b76a99219c79"
+        },
+        {
+          "UId": "b599ffdd-3ed4-44f8-b2b1-722cc59bd6b2",
+          "A2": "ExecuteLuaScriptCaption",
+          "A3": "adcf4801-a882-42c1-8b76-78fc50736540",
+          "A4": "adcf4801-a882-42c1-8b76-78fc50736540",
+          "A5": "6ef2fbff-21b4-4bc8-a444-547f233bcd1c"
+        }
+      ],
+      "B3": [],
+      "B6": "6b78a6ff-721b-484b-8d68-ce47c6f5aacc",
+      "B8": "0.0.0.0",
+      "HD1": "50e3acc0-26fc-4237-a095-849a1d534bd3",
+      "HD4": 2,
+      "HD6": "define('{0}Structure', ['{0}Resources'], function(resources) {{return {{schemaUId:'{2}',schemaName:'{3}',parentSchemaUId:'{4}',extendParent:{5},type:Terrasoft.SchemaType.EDIT_VIEW_MODEL_SCHEMA,entitySchema:'',name:'',extend:'Terrasoft.model.BaseViewModel',schema:{{leftPanel:[],rightPanel:[],actions:[],analytics:[]}},methods:{{}},controlsConfig:{{}},customBindings:{{}},bindings:{{}},schemaDifferences:function(){{\n{1}\n}}}};}});",
+      "HD5": [],
+      "HD7": [],
+      "HD8": [
+        {
+          "UId": "6dc0b8dc-0d0b-410d-869f-356471a8403e",
+          "A2": "ReloadImage",
+          "A3": "adcf4801-a882-42c1-8b76-78fc50736540",
+          "A4": "adcf4801-a882-42c1-8b76-78fc50736540"
+        },
+        {
+          "UId": "9760594d-ed6b-4283-8ab5-2f38a0bcc5b4",
+          "A2": "AddActionImage",
+          "A3": "adcf4801-a882-42c1-8b76-78fc50736540",
+          "A4": "adcf4801-a882-42c1-8b76-78fc50736540"
+        },
+        {
+          "UId": "57bdae1b-23f6-42cf-bc65-d0768c80d4de",
+          "A2": "ActionsButtonImage",
+          "A3": "adcf4801-a882-42c1-8b76-78fc50736540",
+          "A4": "adcf4801-a882-42c1-8b76-78fc50736540"
+        }
+      ],
+      "HD11": []
+    }
+  }

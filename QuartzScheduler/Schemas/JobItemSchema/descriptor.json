@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "cb20ebd6-55e0-453c-8f3e-037e4eaed12d",
+    "Name": "JobItemSchema",
+    "ModifiedOnUtc": "\/Date(1499761540000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "JobItemSchema",
+    "DependsOn": []
+  }
+}

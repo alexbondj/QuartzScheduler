@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Действие помошника" />
+			<Item Name="Columns.Active.Caption" Value="Активное" />
+			<Item Name="Columns.Name.Caption" Value="Название" />
+			<Item Name="Columns.ProcessName.Caption" Value="Process name" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="it-IT">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.Active.Caption" Value="Column 1" />
+			<Item Name="Columns.Name.Caption" Value="Column 1" />
+			<Item Name="Columns.ProcessName.Caption" Value="Column 1" />
+		</Items>
+	</Group>
+</Resources>

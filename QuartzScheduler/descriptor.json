@@ -1,0 +1,21 @@
+﻿{
+  "Descriptor": {
+    "UId": "6b78a6ff-721b-484b-8d68-ce47c6f5aacc",
+    "PackageVersion": "7.8.0",
+    "Name": "QuartzScheduler",
+    "ModifiedOnUtc": "\/Date(1499761662000)\/",
+    "Maintainer": "F4",
+    "DependsOn": [
+      {
+        "UId": "a7d9c356-450c-46d7-bc85-72dca4e280ba",
+        "PackageVersion": "7.8.0",
+        "Name": "NUI"
+      },
+      {
+        "UId": "613fd913-be03-46ce-909b-f44e4225469e",
+        "PackageVersion": "7.8.0",
+        "Name": "UIv2"
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+= MetaData.Schema.UId "ace0b2a7-71e8-44a3-89a5-0020d284803c"
+= MetaData.Schema.A2 "AssistantTask"
+= MetaData.Schema.A5 "de53acb2-bad8-47a3-a89b-b76a99219c79"
+= MetaData.Schema.B6 "6b78a6ff-721b-484b-8d68-ce47c6f5aacc"
++ MetaData.Schema.B8 "0.0.0.0"
+= MetaData.Schema.EG1.UId "2f2a8d9a-f275-40b2-94be-deaa62ee64e2"
+= MetaData.Schema.EG1.A2 "AssistantTaskEventsProcess"
+= MetaData.Schema.EG1.A5 "de53acb2-bad8-47a3-a89b-b76a99219c79"
+= MetaData.Schema.EG1.BK8 "7bb7d6a5-e7a3-4837-83bc-7f785d688165"
+= MetaData.Schema.D8 "1bab9dcf-17d5-49f8-9536-8e0064f1dce0"
++ MetaData.Schema.D4 "8c7235a1-6c90-4f02-8380-c4036127ed4b"
++ MetaData.Schema.D2 {
+  "UId": "8c7235a1-6c90-4f02-8380-c4036127ed4b",
+  "A2": "Name",
+  "A3": "ace0b2a7-71e8-44a3-89a5-0020d284803c",
+  "A4": "ace0b2a7-71e8-44a3-89a5-0020d284803c",
+  "A5": "de53acb2-bad8-47a3-a89b-b76a99219c79",
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+}
++ MetaData.Schema.D2 {
+  "UId": "2f414474-1517-45c6-90cf-527413298561",
+  "A2": "Action",
+  "A3": "ace0b2a7-71e8-44a3-89a5-0020d284803c",
+  "A4": "ace0b2a7-71e8-44a3-89a5-0020d284803c",
+  "A5": "de53acb2-bad8-47a3-a89b-b76a99219c79",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "fc309de2-b2aa-46aa-8bb1-020308b5df25",
+  "E6": true,
+  "E17": "ActionId",
+  "E18": "ActionName"
+}
++ MetaData.Schema.D2 {
+  "UId": "535288d9-6800-458d-b9b3-7ad68b094959",
+  "A2": "SysAdminUnit",
+  "A3": "ace0b2a7-71e8-44a3-89a5-0020d284803c",
+  "A4": "ace0b2a7-71e8-44a3-89a5-0020d284803c",
+  "A5": "de53acb2-bad8-47a3-a89b-b76a99219c79",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "d5d01fcd-6d8c-4b29-9e58-cca3ffe62364",
+  "E6": true,
+  "E17": "SysAdminUnitId",
+  "E18": "SysAdminUnitName"
+}
++ MetaData.Schema.D2 {
+  "UId": "d4356bf2-df84-4766-8ddc-505854f4fc9e",
+  "A2": "Type",
+  "A3": "ace0b2a7-71e8-44a3-89a5-0020d284803c",
+  "A4": "ace0b2a7-71e8-44a3-89a5-0020d284803c",
+  "A5": "de53acb2-bad8-47a3-a89b-b76a99219c79",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "ef3be671-4f22-49c6-8536-0e465c5b9ffc",
+  "E6": true,
+  "E17": "TypeId",
+  "E18": "TypeName"
+}
++ MetaData.Schema.D2 {
+  "UId": "f8723e74-a3f9-40b0-80bb-4808ea177573",
+  "A2": "IntervalInMinute",
+  "A3": "ace0b2a7-71e8-44a3-89a5-0020d284803c",
+  "A4": "ace0b2a7-71e8-44a3-89a5-0020d284803c",
+  "A5": "de53acb2-bad8-47a3-a89b-b76a99219c79",
+  "S2": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+}
++ MetaData.Schema.D2 {
+  "UId": "51e76175-22a6-4ba5-8c3b-ce9896edef43",
+  "A2": "RunDateTime",
+  "A3": "ace0b2a7-71e8-44a3-89a5-0020d284803c",
+  "A4": "ace0b2a7-71e8-44a3-89a5-0020d284803c",
+  "A5": "de53acb2-bad8-47a3-a89b-b76a99219c79",
+  "S2": "d21e9ef4-c064-4012-b286-fa1a8171da44"
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","8c7235a1-6c90-4f02-8380-c4036127ed4b","2f414474-1517-45c6-90cf-527413298561","535288d9-6800-458d-b9b3-7ad68b094959","d4356bf2-df84-4766-8ddc-505854f4fc9e","f8723e74-a3f9-40b0-80bb-4808ea177573","51e76175-22a6-4ba5-8c3b-ce9896edef43"]
+= MetaData.Schema.D20.A2 "AssistantTaskEvents"
+- MetaData.Schema.EG1.B6
+- MetaData.Schema.EG1.BK29
+- MetaData.Schema.EG1.BK30
+- MetaData.Schema.D1
+- MetaData.Schema.D20.A5
+- MetaData.Schema.D20.FA5
+- MetaData.Schema.D20.FA6
+- MetaData.Schema.D20.FA7
+- MetaData.Schema.D20.FA11
+- MetaData.Schema.D20.FA12
++ MetaData.Schema.B7 false
++ MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false
++ MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16 false
++ MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16 false
++ MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16 false
++ MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16 false
++ MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16 false

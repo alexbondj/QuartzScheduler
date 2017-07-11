@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="AssistantSchema" />
+			<Item Name="Images.57bdae1b-23f6-42cf-bc65-d0768c80d4de.Caption" Value="Image 1" />
+			<Item Name="Images.57bdae1b-23f6-42cf-bc65-d0768c80d4de.Image" Type="Image" Value="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAABnSURBVDhPpdIxCoAwDEbhXsDj6+DgqiB4hoJ4rtgMP5TyhoYMH5QX2qUpZpaCMQKjHM9nbuw9jLKe1bartiPPHUZplxdHM8EYgTECo+z3a27sPYySfmAGxgiMkv7G9CKlV3kGxnlWft3u+ceyoL5XAAAAAElFTkSuQmCC" />
+			<Item Name="Images.6dc0b8dc-0d0b-410d-869f-356471a8403e.Caption" Value="ReloadImage" />
+			<Item Name="Images.6dc0b8dc-0d0b-410d-869f-356471a8403e.Image" Type="Image" Value="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAQtJREFUOE+1kbGORUAUhr2IwstQqTUalBKlUkmiQVQKtUThYSR6GoUEnQLJ2TvjGNea3WRzs19yEvP/5/yZOQT4kP8J2PcdoigCRVFA0zTI8xydJ7/eoO97UFUVBEGgVVUVOhe3gDiOYV1XPF0URcFCyrJE9YAFZFnGmnjIssz16el9mNdEqOuaeWmaovoKCMPwNvhe8zxj28Gpm6aJyktbloV+kG2fDSfbtkHbtkz/Xo7jXDvwfZ8ZXdehejAMw22QlGEY1GMB5N+fpmVZqF6M48j1b9vyPI81NU2D6gV5jq7reDp4rNt1XRYSBAGqP/MIIEzTBLZtgyRJIIoiJElCn8iDG/AXPgwA+AKQK0Xc6OvlEQAAAABJRU5ErkJggg==" />
+			<Item Name="Images.9760594d-ed6b-4283-8ab5-2f38a0bcc5b4.Caption" Value="AddActionImage" />
+			<Item Name="Images.9760594d-ed6b-4283-8ab5-2f38a0bcc5b4.Image" Type="Image" ContentType="Data" FileExtension=".svg" Value="PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAxOS4yLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiDQoJIHZpZXdCb3g9IjAgMCAzMiAzMiIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMzIgMzI7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+DQoJLnN0MHtmaWxsOm5vbmU7c3Ryb2tlOiM3QzkxQUU7c3Ryb2tlLW1pdGVybGltaXQ6MTA7fQ0KPC9zdHlsZT4NCjxsaW5lIGNsYXNzPSJzdDAiIHgxPSIxNi41IiB5MT0iMTAiIHgyPSIxNi41IiB5Mj0iMjEiLz4NCjxsaW5lIGNsYXNzPSJzdDAiIHgxPSIxMSIgeTE9IjE1LjUiIHgyPSIyMiIgeTI9IjE1LjUiLz4NCjwvc3ZnPg0K" />
+			<Item Name="LocalizableStrings.AddDailyCaption.Value" Value="Add daily action" />
+			<Item Name="LocalizableStrings.ExecuteLuaScriptCaption.Value" Value="Run Lua script..." />
+			<Item Name="LocalizableStrings.RefreshCaption.Value" Value="Refresh" />
+		</Items>
+	</Group>
+</Resources>

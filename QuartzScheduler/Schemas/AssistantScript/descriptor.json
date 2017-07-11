@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "11351be9-dc9e-464f-a9fb-456260f48a52",
+    "Name": "AssistantScript",
+    "ModifiedOnUtc": "\/Date(1499761815000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Assistant script",
+    "DependsOn": []
+  }
+}

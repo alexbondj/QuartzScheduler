@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Задания помошника" />
+			<Item Name="Columns.Action.Caption" Value="Действие" />
+			<Item Name="Columns.IntervalInMinute.Caption" Value="Интервал в минутах" />
+			<Item Name="Columns.Name.Caption" Value="Название" />
+			<Item Name="Columns.RunDateTime.Caption" Value="Время запуска" />
+			<Item Name="Columns.SysAdminUnit.Caption" Value="Пользователь" />
+			<Item Name="Columns.Type.Caption" Value="Тип" />
+		</Items>
+	</Group>
+</Resources>

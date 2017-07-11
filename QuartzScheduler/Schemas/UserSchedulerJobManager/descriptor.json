@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "5b929677-6e46-4fdb-89a5-f34725224045",
+    "Name": "UserSchedulerJobManager",
+    "ModifiedOnUtc": "\/Date(1499761439000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "UserSchedulerJobManager",
+    "DependsOn": []
+  }
+}

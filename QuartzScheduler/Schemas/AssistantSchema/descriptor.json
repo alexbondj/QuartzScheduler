@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "adcf4801-a882-42c1-8b76-78fc50736540",
+    "Name": "AssistantSchema",
+    "ModifiedOnUtc": "\/Date(1499765095000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "AssistantSchema",
+    "DependsOn": []
+  }
+}
